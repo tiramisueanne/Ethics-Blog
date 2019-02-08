@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## C103F Spring 2019: GDC State of Mind
 
-You can use the [editor on GitHub](https://github.com/tiramisueanne/Ethics-Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  Group projects often lead to less than ideal power dynamics and awkward work situations. Bob does not respect Alice’s contribution to the project in his move to rewrite her work rather than meet with her to understand it. Alice could have felt this move implies that Bob does not think her competent, and that he didn’t recognize her effort. Carlos only defended Alice’s code after she brought him into the conflict, so she might feel that he didn’t stick up for her while he might feel needlessly involved. In terms of gender, Bob’s move might have been informed by a bias against women in tech which Alice probably picked up on. If Carlos were Carlita (our group’s personification of a female Carlos), we think Carlita would have recognized this as well and have been more enthusiastic to speak up. 
+  
+  Conflicts can often times change work dynamics and personal relationships to the detriment of the group. The disagreement could lead to a decrease in productivity and quality if the group does not resolve their conflict because their communication would greatly decrease from personal biases. The group could be hesitant to express their issues, and this would most likely lead to more arguments. If the members had to work together again in the future, they may maintain the same prejudices and their next project would be affected as well. 
+  
+  The best way for all three of the group members to alleviate this situation is to have better communication and higher awareness of each other’s feelings. Bob should apologize and understand the offense he had caused to Alice, acknowledging that his actions were disrespectful. Carlos should act as a mediator, helping both Alice and Bob fully understand each other and why they feel the way they do. Alice should accept Bob’s apology and try not to hold prejudice during the remainder of the project. The group should decide what goes on the master branch together. They should respect each other’s contributions to the master version, and even perhaps merge code if that works out better.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tiramisueanne/Ethics-Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
