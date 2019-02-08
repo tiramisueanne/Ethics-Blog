@@ -1,5 +1,5 @@
 ## C103F Spring 2019: GDC State of Mind
-<img src="group_photo.jpeg" width="800" />
+<img src="group_photo.jpg" width="800" />
 
   Group projects often lead to less than ideal power dynamics and awkward work situations. Bob does not respect Alice’s contribution to the project in his move to rewrite her work rather than meet with her to understand it. Alice could have felt this move implies that Bob does not think her competent, and that he didn’t recognize her effort. Carlos only defended Alice’s code after she brought him into the conflict, so she might feel that he didn’t stick up for her while he might feel needlessly involved. In terms of gender, Bob’s move might have been informed by a bias against women in tech which Alice probably picked up on. If Carlos were Carlita (our group’s personification of a female Carlos), we think Carlita would have recognized this as well and have been more enthusiastic to speak up.
   
