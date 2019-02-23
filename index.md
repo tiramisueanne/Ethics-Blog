@@ -1,3 +1,21 @@
+
+## C103F Spring 2019: GDC State of Mind
+<img src="group_photo.jpg" width="800" />
+From left to right: David Shiu, Sue Anne Davis, Caitlin Lien
+
+Through the Challenger disaster we see people who understood the technology and dangers of certain aspects of the rocket, who tried their best to stop the launch and warn the people in authority who decided to continue with the launch anyways. Because of only telecommunications being used, maybe the urgency in the engineers’ messages could not be conveyed in totality (Kaplan). However, after the disaster, the fraud was exposed due to TV coverage, which shamed NASA nationally. If those in authority had some sort of technological understanding, maybe they would’ve listened to the engineers and obliged to their outcries, possibly even to negate the negative press. 
+Oftentimes, people are afraid to speak out against authority in fear of the consequences that could follow, such as losing their job or facing public humiliation. President Reagan was scheduled to discuss NASA in his State of the Union address and NASA prided themselves on “sending up shuttles routinely and reliably” (Kaplan). The Challenger launch had already been delayed once so NASA might have felt pressured to stay on schedule. Although Ebeling, McDonald, Thompson, and Boisjoly didn’t hesitate to warn NASA executives and officials because they knew the launch was in danger, the executives and officials ignored their dire warning and approved the launch anyway. After the launch failed, the engineers revealed to the press that they had warned NASA that the launch would fail, and a result, the engineers were blackballed, blacklisted, and labelled as “whistleblowers”. 
+The first framework that comes to mind is virtue-based: the engineers might have over-trusted the managers to make an informed and ethical decision due to the fact that no American had been killed after leaving the launchpad (Zak). Another reason why the engineers could have over-trusted them is the bias that managers are in a position of authority due to more merit or intelligence, and therefore should be trusted. The managers could have been operating from a Consequentialist perspective, where the perceived small risk was worth getting a successful launch talked about in the Union Address (Kaplan). 
+
+Kaplan, Sarah. “Finally Free from Guilt over Challenger Disaster, an Engineer Dies in Peace.” The Washington Post, WP Company, 22 Mar. 2016, www.washingtonpost.com/news/morning-mix/wp/2016/03/22/finally-free-from-guilt-over-challenger-disaster-an-engineer-dies-in-peace/?utm_term=.5feac7d77de8.
+
+Zak, Dan. “'We've Lost 'Em, God Bless 'Em': What It Was like to Witness the Challenger Disaster.” The Washington Post, WP Company, 28 Jan. 2016, www.washingtonpost.com/news/arts-and-entertainment/wp/2016/01/28/weve-lost-em-god-bless-em-what-it-was-like-to-witness-the-challenger-disaster/?postshare=4561458634467765&utm_term=.4b971a71106d.
+
+
+
+
+
+
 ## C103F Spring 2019: GDC State of Mind
 <img src="group_photo.jpg" width="800" />
 From left to right: David Shiu, Sue Anne Davis, Caitlin Lien
