@@ -1,3 +1,12 @@
+## C103F Spring 2019: GDC State of Mind
+<img src="group_photo.jpg" width="800" />
+From left to right: David Shiu, Sue Anne Davis, Caitlin Lien
+
+Although Amazon is a highly profitable company, 10% of their workers in Ohio are on food stamps, indicating that Amazon does not pay their employees enough and are taking advantage of local government support. Amazon continues to encroach on the privacy of their employees in the name of efficiency with disregard to their dignity or humanity. This is evidence of a lack of duty-based ethical thinking as Amazon is not thinking about its obligations to their employees. Amazon is not respecting their employees’ autonomy and privacy, as exhibited by the Amazon wristband that can track employees’ locations and direct them in completing tasks. 
+
+Considering that Amazon already has significant business subsidies and tax breaks, Amazon has the responsibility to give back to the local community and boost its economy. Amazon’s employees should not be on food stamps or required to work dizzying schedules since Amazon are given assistance from the government. The American government provides assistance to companies for bringing jobs to communities and stimulating the local economy. As a result, many corporations are able to take advantage of the monetary buffer the government provides them. Some companies, such as Amazon, decide to use this buffer to increase profit rather than life quality of their employees, which the public is more than happy to support. People continue to buy from Amazon despite their bad reputation because of the convenience and low cost, meaning that people will gladly save two dollars instead of supporting healthy workers. However, it should be noted that most people are not aware that the low cost of product is often due overworked employees who are not getting paid enough.
+
+Technology provides possible small efficiency benefits but over-supervising employees can do more harm than good, leading to, in a consequentialist framework, an overall negative ethical role. As said by a former employee, “The robotic technology isn’t up to scratch yet, so until it is, they will use human robots.” In this regard, technology is fully responsible for the strain of Amazon workers. 
 
 ## C103F Spring 2019: GDC State of Mind
 <img src="group_photo.jpg" width="800" />
