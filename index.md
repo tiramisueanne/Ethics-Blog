@@ -2,6 +2,24 @@
 <img src="group_photo.jpg" width="800" />
 From left to right: David Shiu, Sue Anne Davis, Caitlin Lien
 
+Piracy, and the technology that facilitated it, has changed the relationship between creators and consumers of content profoundly. Pirates hurt the development of paid-for content creation by removing compensation, and rationalize their choices through a variety of means, leading to financial issues for developers and long-term issues for consumers. Technology has been a major catalyst for piracy, and the loss experienced in paid-for content has caused tech to adapt to the new landscape.
+
+Pirating reduces the developer’s ability to create more content, and diminishes the motivation for an aspiring developer to make content. People rationalize piracy through assuming the state of the developer, and treating the content as a public good that someone else will support. Pirating, and the unlimited fountain of material it opens up, can also cheapen the experience of consuming and anticipating the consumption of the material (Newshour). If pirating continues, companies will lose more money and cease to create content. For example, Expendables 3 lost about $100 million dollars due to piracy. Such losses can lead to the decrease of pension, benefits, and welfare of hundreds workers behind the scenes (Forbes).
+
+Technology has made it easier to pirate products, such as software, movies, games, and books. Although DRM has made an attempt to make this more difficult, most implementations can be cracked. Due to this lack of obstacles, technological products, such as games, are free but depend on advertisements and in-product purchases. For instance, more and more games are becoming free because if developers don’t make it free, people will pirate the game and the company will lose money. Instead, they depend on in-game purchases and advertisements for revenue. Streaming services also pay artists minimal amounts per stream to make more money, therefore reducing the artist’s ability to support themselves.
+
+Piracy affects the ability for developers to create content that costs money up front, causing us to have an entirely different landscape of media to consume. Technology has therefore created and destroyed entire forms of media through the creation of new platforms and the proliferation of piracy. 
+
+Granados, Nelson. “How Piracy Is Still Hurting The Filmmakers And Artists You Admire.” Forbes, Forbes Magazine, 3 Dec. 2015, www.forbes.com/sites/nelsongranados/2015/12/03/how-piracy-hurts-the-filmmakers-and-artists-you-admire/#43c5306b4554.
+
+NewsHour, PBS. “What the Internet's Free Culture Has Cost Us in Art.” PBS, Public Broadcasting Service, 3 Sept. 2015, www.pbs.org/newshour/show/piracy.
+
+
+
+## C103F Spring 2019: GDC State of Mind
+<img src="group_photo.jpg" width="800" />
+From left to right: David Shiu, Sue Anne Davis, Caitlin Lien
+
 YouTube has the responsibility to allow users to upload their own content and voice their thoughts through comments. However, it also has the responsibility to monitor and restrict hostile or easily falsifiable content. Content that is illegal, such as pedophilic pornography, shouldn’t be hosted and comments that promote illegal activity should be deleted as well. Youtube’s responsibility to advertisers is to put advertisements on advertiser-friendly content and match advertisements to that content.
 
 The content on Youtube is intuitively both the responsibility of the creator and Youtube. Advertisers, who indirectly support the hosting of the videos through paying Youtube, control Youtube’s funding and therefore control the content. Because of this framing, Youtube now becomes the sole entity responsible for unacceptable content being displayed, which initially feels incorrect due to their only accidental involvement in someone hosting harmful content.  From an intent-perspective, this is wholly unfair, as Youtube isn’t trying to promote inappropriate videos, but from a consequentialist framework, causes more damage than an individual criminal ever could. 
