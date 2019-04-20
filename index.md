@@ -2,6 +2,22 @@
 <img src="group_photo.jpg" width="800" />
 From left to right: David Shiu, Sue Anne Davis, Caitlin Lien
 
+Gamification is a marketing technique implemented through gaming elements and competition. Gamification is applying game-design elements to real-world activities. Specifically, gamification focuses mainly on human motivation. It’s a smart technique that leverages humans by giving them a sense of achievement and competition. 
+
+Gamification can be helpful in creating and maintaining healthy habits. Duolingo uses development/accomplishment and loss/avoidance of the core drives of gamification to retain users. Duolingo uses development/accomplishment by rewarding users with a badge for completing a lesson and also by allowing users to see their progress. Duolingo forces users to use Duolingo as a habit by employing loss/avoidance framework in which users will lose their streak if they do not use Duolingo and meet their goal of practicing x minutes a day. Gamification can be used to encourage users to maintain healthy habits and maximize productivity.
+
+Gamification can be negative in that it can make something that the user doesn’t intrinsically enjoy or value addictive. Social media specifically targets the social influence core in which it can invite envy from users. In addition, social media maintains its user base through acting as a means for escapism as users will log back on their social media to avoid their responsibilities and spend their time engaging with other users. By increasing engagement with other users and content, social media can trap users into a toxic cycle in which users are unable to work productively.
+
+Play incentives encourage users to come back and engage with the activity whereas addiction is when users become uncomfortable without this certain activity. Although it may be hard to distinguish the two, play incentives can act as a positive influence in a user’s life by encouraging learning while addiction serves as a negative effect by encouraging users to shirk their responsibilities. 
+
+Companies can be encouraged to avoid addictive/exploitive mechanics by enhancing the user experience instead of relying on “engagement” to the product. For instance, if Instagram was a paid-for service, it would be easy to configure it such that no one could see each other’s like numbers, or followers. Companies could also be penalized if a significant portion of their user base exhibited addictive behaviors towards the game (30+ hours a week, for instance).
+
+
+
+## C103F Spring 2019: GDC State of Mind
+<img src="group_photo.jpg" width="800" />
+From left to right: David Shiu, Sue Anne Davis, Caitlin Lien
+
 Piracy, and the technology that facilitated it, has changed the relationship between creators and consumers of content profoundly. Pirates hurt the development of paid-for content creation by removing compensation, and rationalize their choices through a variety of means, leading to financial issues for developers and long-term issues for consumers. Technology has been a major catalyst for piracy, and the loss experienced in paid-for content has caused tech to adapt to the new landscape.
 
 Pirating reduces the developer’s ability to create more content, and diminishes the motivation for an aspiring developer to make content. People rationalize piracy through assuming the state of the developer, and treating the content as a public good that someone else will support. Pirating, and the unlimited fountain of material it opens up, can also cheapen the experience of consuming and anticipating the consumption of the material (Newshour). If pirating continues, companies will lose more money and cease to create content. For example, Expendables 3 lost about $100 million dollars due to piracy. Such losses can lead to the decrease of pension, benefits, and welfare of hundreds workers behind the scenes (Forbes).
